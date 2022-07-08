@@ -1,0 +1,29 @@
+.simple-contact-form__form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.simple-contact-form h1{
+    font-size: 2.5rem;
+}
+.simple-contact-form p{
+    text-align: center;
+}
+.simple-contact-form__form input{
+    padding: 10px;
+    margin-bottom: 1rem;
+}
+.simple-contact-form__form textarea{
+    padding: 10px;
+    text-align: center;
+}
+.simple-contact-form__form button{
+    margin-top: 1rem;
+    padding: 1rem;
+    width: 20%;
+    border-radius: 10px;
+}
+.simple-contact-form{
+    text-align: center;
+}
